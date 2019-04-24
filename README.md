@@ -29,7 +29,7 @@ foo.baz‽     # false
 
 Feeling _really_ forgetful, no problem:
 
-```
+```rb
 Interrobang.everything
 
 %w[foo bar baz].include?("baz")  # true
@@ -44,7 +44,7 @@ Interrobang.everything
 * [AngryRaise](https://github.com/sshaw/angry_raise) - `raise` exceptions, with emotion and intensity
 * [class2](https://github.com/sshaw/class2) - DSL for creating class hierarchies
 * [require3](https://github.com/sshaw/require3) - `Kernel#require` something and make it accessible via a different namespace
-* [YYMMDD](https://github.com/sshaw/yymmdd) - Tiny DSL for idiomatic date parsing and
+* [YYMMDD](https://github.com/sshaw/yymmdd) - Tiny DSL for idiomatic date parsing and formatting
 
 ## Author
 
