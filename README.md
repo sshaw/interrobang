@@ -2,7 +2,7 @@
 
 ‽‽‽‽‽‽‽‽‽‽‽‽‽‽‽‽‽‽
 
-Did the method end with `?` or `!`‽ Interrobang gives you the best of both worlds.
+Did the method end with `?` or `!`‽ Interrobang gives you the best of both worlds‽
 
 ## Usage
 
@@ -29,7 +29,7 @@ foo.baz‽     # false
 ```
 
 
-Feeling _really_ forgetful, no problem:
+Feeling _really_ forgetful‽ No problem:
 
 ```rb
 Interrobang.everything
