@@ -2,7 +2,7 @@
 # frozen_string_literal: true
 
 module Interrobang
-  VERSION = "0.0.2"
+  VERSION = "0.0.1"
 
   def only(*thangz_to_bang)
     thangz_to_bang.flatten!
