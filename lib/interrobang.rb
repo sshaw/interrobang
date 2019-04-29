@@ -2,6 +2,8 @@
 # frozen_string_literal: true
 
 module Interrobang
+  VERSION = "0.0.2"
+
   def only(*thangz_to_bang)
     thangz_to_bang.flatten!
     thangz_to_bang.each do |thang|

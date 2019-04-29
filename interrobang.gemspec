@@ -1,9 +1,10 @@
 # coding: utf-8
 require "date"
+require File.expand_path("../lib/interrobang", __FILE__)
 
 Gem::Specification.new do |s|
   s.name        = "interrobang"
-  s.version     = "0.0.1"
+  s.version     = Interrobang::VERSION
   s.date        = Date.today
   s.summary     = %q{Can't remember if the method ended with "?" or "!"‽ Interrobang solves this by giving you the best of both worlds.}
   s.authors     = ["Skye Shaw"]

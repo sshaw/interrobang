@@ -1,6 +1,8 @@
 # Interrobang
 
-Can't remember if the method ended with `?` or `!`‽ Interrobang solves this by giving you the best of both worlds.
+‽‽‽‽‽‽‽‽‽‽‽‽‽‽‽‽‽‽
+
+Did the method end with `?` or `!`‽ Interrobang gives you the best of both worlds.
 
 ## Usage
 
