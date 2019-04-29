@@ -7,6 +7,7 @@ module Interrobang
   def only(*thangz_to_bang)
     thangz_to_bang.flatten!
     thangz_to_bang.each do |thang|
+      next if thang.frozen?
       bang_instance(thang)
       bang_class(thang)
     end
